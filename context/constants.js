@@ -1,6 +1,4 @@
-//  0x5FbDB2315678afecb367f032d93F642f64180aa3
+import niruToken from "./NiruToken.json";
 
-import niruToken from './NiruToken.json';
-
-export const niruTokenAddress=" 0x5FbDB2315678afecb367f032d93F642f64180aa3" ;
+export const niruTokenAddress="0x82d16740647E9cFeCa1EF2D0Fd974A07fB16a6D1" ;
 export const niruTokenABI = niruToken.abi;
