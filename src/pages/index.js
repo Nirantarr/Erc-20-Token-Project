@@ -1,5 +1,3 @@
-// dummy 1 0x19Ac815a9d7f0695aE18c6a53A961f3EA3437d62
-// dummy 3 0x479aC66241e0f1d2024CfaC11AE19E91911c0563
 import React, { useState, useEffect, useContext } from 'react';
 import Image from 'next/image';
 // Internal Import 
